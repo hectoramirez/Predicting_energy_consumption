@@ -28,7 +28,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="448c4365-f2cc-4dd0-bbf0-1e537a32f50f" />
   <component name="ProjectId" id="1YNnZhRsgrs4Uoe4224jk3lXjye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myShowVariablesByDefault" value="false" />
@@ -114,6 +119,9 @@
       <module name="Renewable_Energy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -165,6 +173,10 @@
       <option name="presentableId" value="Default" />
       <updated>1582791976239</updated>
       <workItem from="1585589026320" duration="397000" />
+      <workItem from="1585918205568" duration="128000" />
+      <workItem from="1586123965189" duration="2992000" />
+      <workItem from="1586203537996" duration="14000" />
+      <workItem from="1586255949262" duration="16000" />
     </task>
     <servers />
   </component>
@@ -192,10 +204,10 @@
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state width="1398" height="186" key="GridCell.Tab.0.right/0.22.1440.878@0.22.1440.878" timestamp="1585589427776" />
-    <state x="229" y="100" key="SettingsEditor" timestamp="1585589137805">
+    <state x="229" y="100" key="SettingsEditor" timestamp="1586203549653">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
-    <state x="229" y="100" key="SettingsEditor/0.22.1440.878@0.22.1440.878" timestamp="1585589137805" />
+    <state x="229" y="100" key="SettingsEditor/0.22.1440.878@0.22.1440.878" timestamp="1586203549653" />
     <state x="312" y="191" width="816" height="540" key="find.popup" timestamp="1582796894893">
       <screen x="0" y="22" width="1440" height="878" />
     </state>
