@@ -1,5 +1,4 @@
 # Conclusions & thoughts
-<hr>
 
 <ul>
     <li> It seems to me that by lagging variables one only creates new features, <i>i.e.</i>, there is little difference in extending the dataset to (t-x) for x>>1 when predicting only the next hour (with 2 or 3 lagged features is enough). <br><br>
@@ -10,13 +9,4 @@
     <li> The XGBoost model is not very different. This could hint that the LSTM is again not very efficient.
 </ul>
 <hr>
-<hr>
-
-# Conclusions & thoughts (3+3)
-<hr>
-<ul> 
-    <li> Data prepartion is exactly the same as in the other notebook (jump to predictions).
-    <li> Results are similar as in the other notebook. Sadly, the t+2 and t+3 hours are poorly predicted. <br><br>
-        I would say it is because I am dropping the 'Demanda (W)' (t), (t+1) and (t+2) columns as they are my target. However, the (t) might be useful for predicting (t+1) and (t+2), and so forth.
-</ul>
 <hr>
