@@ -18,7 +18,7 @@ Project given for the first HackDay at [IFIC](http://webific.ific.uv.es/web/) (U
 * 24-hour basis:
 ![Series](Figures/roll_24_autoreg.png)
 
-___
+
 ## Consumption_energy.ipynb
 
 A small town in Spain is sourced by solar energy thanks to a solar plant. Over a year (2015), the plant's energy output and the town's energy consumption data were gathered; and along with it, data from a nearby meteorological station. 
